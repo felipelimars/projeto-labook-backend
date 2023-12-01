@@ -4,7 +4,7 @@
 
 O Labook é uma rede social com o objetivo de promover a conexão e interação entre pessoas. Quem se cadastrar no aplicativo poderá criar e curtir publicações.
 
-O projeto possui a criação de API e banco de dados, implementação de segurança, código escalável seguindo padrões de design e arquitetura POO (Programação orientada a objetos).
+O projeto possui a criação de API e banco de dados, implementação de segurança e código escalável seguindo padrões de design e arquitetura POO (Programação orientada a objetos).
 
 ## Conteúdos abordados
 <p align="left">
